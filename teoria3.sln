@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TEORIA 3", "TEORIA 3", "{0DD16684-92A3-4BE0-9CFA-0C7923C2B6E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teoria3", "TEORIA 3\teoria3\teoria3.csproj", "{BB34AD3E-E9AC-4480-9B93-68B69DA52159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB34AD3E-E9AC-4480-9B93-68B69DA52159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB34AD3E-E9AC-4480-9B93-68B69DA52159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB34AD3E-E9AC-4480-9B93-68B69DA52159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB34AD3E-E9AC-4480-9B93-68B69DA52159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB34AD3E-E9AC-4480-9B93-68B69DA52159} = {0DD16684-92A3-4BE0-9CFA-0C7923C2B6E2}
+	EndGlobalSection
+EndGlobal
